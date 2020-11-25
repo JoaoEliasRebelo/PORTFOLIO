@@ -1,0 +1,8 @@
+<div class="mySlides fade" style="display: none;">  <div class="numbertext">1 / 8</div>  <img src="images/00.jpg" style="width:100%"></div>
+<div class="mySlides fade" style="display: none;">  <div class="numbertext">2 / 8</div>  <img src="images/01.jpg" style="width:100%"></div>
+<div class="mySlides fade" style="display: none;">  <div class="numbertext">3 / 8</div>  <img src="images/02.jpg" style="width:100%"></div>
+<div class="mySlides fade" style="display: none;">  <div class="numbertext">4 / 8</div>  <img src="images/03.jpg" style="width:100%"></div>
+<div class="mySlides fade" style="display: none;">  <div class="numbertext">5 / 8</div>  <img src="images/04.jpg" style="width:100%"></div>
+<div class="mySlides fade" style="display: none;">  <div class="numbertext">6 / 8</div>  <img src="images/07.jpg" style="width:100%"></div>
+<div class="mySlides fade" style="display: none;">  <div class="numbertext">7 / 8</div>  <img src="images/08.jpg" style="width:100%"></div>
+<div class="mySlides fade" style="display: none;">  <div class="numbertext">8 / 8</div>  <img src="images/10.jpg" style="width:100%"></div>
