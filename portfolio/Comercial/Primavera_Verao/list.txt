@@ -1,0 +1,4 @@
+<div class="mySlides fade" style="display: none;">  <div class="numbertext">1 / 4</div>  <img src="images/DUR201907FinalRetouch0005.jpg" style="width:100%"></div>
+<div class="mySlides fade" style="display: none;">  <div class="numbertext">2 / 4</div>  <img src="images/RitaDuarte2019.jpg" style="width:100%"></div>
+<div class="mySlides fade" style="display: none;">  <div class="numbertext">3 / 4</div>  <img src="images/RitaDuarte2019_02.jpg" style="width:100%"></div>
+<div class="mySlides fade" style="display: none;">  <div class="numbertext">4 / 4</div>  <img src="images/RitaDuarte2019_03.jpg" style="width:100%"></div>
