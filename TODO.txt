@@ -1,0 +1,18 @@
+Product na aba Portfolio hef=""
+
+
+
+After publish
+href do nome no topo esquerdo
+
+
+TODAS:
+adicionar footer
+
+
+PARA AMANHA:
+Publicar o site
+Corrigir links
+Corrigir as hiperligações do header
+Criar o About
+Colocar o news como manutencao.html
