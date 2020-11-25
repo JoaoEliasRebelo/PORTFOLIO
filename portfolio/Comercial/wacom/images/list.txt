@@ -1,0 +1,1 @@
+<div class="mySlides fade" style="display: none;">  <div class="numbertext">1 / 1</div>  <img src="images/Wacom.jpg" style="width:100%"></div>
